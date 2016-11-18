@@ -1,0 +1,20 @@
+{
+  "name": "toolwatch-watches",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "ico_watches",
+    "logo_watches",
+    "watch-models",
+    "watch-brand.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toolwatchapp/watches"
+  },
+  "bugs": {
+    "url": "https://github.com/toolwatchapp/watches/issues"
+  },
+  "author": "Mathieu Nayrolles <mathieu.nayrolles@gmail.com>"
+}
