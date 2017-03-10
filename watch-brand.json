@@ -29,6 +29,7 @@
   {"name": "Epos", "icon": "logo_epos.jpg", "models": "epos"},
   {"name": "F.P. Journe", "icon": "logo_fpjourne.png", "models": "fpjourne"},
   {"name": "Fortis", "icon": "logo_fortis.jpg", "models": "fortis"},
+  {"name": "Fossil", "icon": "logo_fossil.jpg", "models": "fossil"},
   {"name": "Franck Muller", "icon": "logo_franckmuller.jpg", "models": "franckmuller"},
   {"name": "Frederique Constant", "icon": "logo_frederiqueconstant.jpg", "models": "frederiqueconstant"},
   {"name": "Girard-Perregaux", "icon": "logo_girardperregaux.png", "models": "girardperregaux"},
