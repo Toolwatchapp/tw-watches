@@ -51,6 +51,7 @@
   {"name": "Longines", "icon": "logo_longines.jpg", "models": "longines"},
   {"name": "Louis Vuitton", "icon": "logo_louisvuitton.jpg", "models": "louisvuitton"},
   {"name": "Maurice Lacroix", "icon": "logo_mauricelacroix.jpg", "models": "mauricelacroix"},
+  {"name": "Michel Herbelin", "icon": "logo_michelherbelin.jpg", "models": "michelherbelin"},
   {"name": "Mido", "icon": "logo_mido.jpg", "models": "mido"},
   {"name": "Montblanc", "icon": "logo_montblanc.png", "models": "montblanc"},
   {"name": "Nomos", "icon": "logo_nomos.jpg", "models": "nomos"},
