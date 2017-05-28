@@ -1,12 +1,13 @@
 {
   "name": "tw-watches",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "private": true,
   "files": [
     "ico_watches",
     "logo_watches",
     "watch-models",
+    "watch-calibers",
     "watch-brand.json"
   ],
   "repository": {
