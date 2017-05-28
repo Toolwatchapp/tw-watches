@@ -73,7 +73,7 @@
   {"name": "Maurice Lacroix", "icon": "logo_mauricelacroix.jpg", "models": "mauricelacroix"},
   {"name": "MB&F", "icon": "logo_mbf.jpg", "models": "mbf"},
   {"name": "MeisterSinger", "icon": "logo_meistersinger.jpg", "models": "meistersinger"},
-  {"name": "Michel Herbelin", "icon": "logo_michelherbelin.jpg", "models": "michelherbelin"},
+  {"name": "Michel Herbelin", "icon": "logo_default.png", "models": "michelherbelin"},
   {"name": "Mido", "icon": "logo_mido.jpg", "models": "mido"},
   {"name": "Montblanc", "icon": "logo_montblanc.png", "models": "montblanc"},
   {"name": "Moritz Grossmann", "icon": "logo_moritzgrossmann.png", "models": "moritzgrossmann"},
